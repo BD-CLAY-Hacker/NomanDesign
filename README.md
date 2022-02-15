@@ -28,7 +28,7 @@ Batter Look 😪 On Termux😎 With Your Name😙 Using NomanDesign😪 Use The 
  cd NomanDesign
 
 
- python2 NomanDesign.py
+ python2 CLAYDesign.py
 
 
  -Then Enter Your Name.
