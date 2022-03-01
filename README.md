@@ -4,6 +4,7 @@ Batter Look 😪 On Termux😎 With Your Name😙 Using NomanDesign😪 Use The 
 
 #  -Commands-
 
+```
  pkg up -y
 
  
@@ -29,6 +30,7 @@ Batter Look 😪 On Termux😎 With Your Name😙 Using NomanDesign😪 Use The 
 
 
  python2 CLAYDesign.py
+```
 
 
  -Then Enter Your Name.
@@ -38,7 +40,8 @@ Batter Look 😪 On Termux😎 With Your Name😙 Using NomanDesign😪 Use The 
 
 
 # FolloW Me On Facebook 😅
-#\\>Linl: https://www.facebook.com/afran.noman.CEO
+#\\>Linl: 
+```https://www.facebook.com/afran.noman.CEO```
 
 
 #BYE😃🖐️🖐️
